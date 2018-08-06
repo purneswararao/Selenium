@@ -1,0 +1,10 @@
+URL=https://www.facebook.com/
+user_id=email
+user_pwd=pass
+login_btn=//input[@type='submit']
+G_url=https://accounts.google.com
+G_uid=//input[@type='email']
+G_pwd=//input[@type='password']
+G_login=//span[text()='Next']
+G_Acct=//span[@class='gb_db gbii']
+G_logout=//a[text()='Sign out']
